@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Android Homework Coursera</string>
+    <string name="mensajeBienvenida">Bienvenido</string>
+    <string name="botonBienvenida">Entrar</string>
+
+</resources>
